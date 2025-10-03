@@ -4,7 +4,7 @@ const Bodies
  = () => {
     return ( 
         <div className = "topParent">
-        <div className="Parent min-h-screen flex items justify-center">
+        <div className="Parent min-h-screen justify-center">
 
             <div className="myImage">
         <img className="myImg" src="/image1.JPG" loading="lazy" alt="My Image" />
